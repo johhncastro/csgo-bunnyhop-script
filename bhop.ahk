@@ -1,6 +1,6 @@
 ;instructions - download autohotkey copy and paste this script in new file and run
 ;delete key will suspend the script
-;appy hopping :)
+;Happy hopping :)
 
 
 
